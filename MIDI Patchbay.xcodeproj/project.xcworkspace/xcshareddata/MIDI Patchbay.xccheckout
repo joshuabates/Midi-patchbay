@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F3645F04-D620-4D3C-AC8F-06B2D7172607</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MIDI Patchbay</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E8A5159F-7505-46DB-B1F3-F9297BDDFE32</key>
+		<string>ssh://github.com/silveur/midi_patchbay.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MIDI Patchbay.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E8A5159F-7505-46DB-B1F3-F9297BDDFE32</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/silveur/midi_patchbay.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E8A5159F-7505-46DB-B1F3-F9297BDDFE32</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8A5159F-7505-46DB-B1F3-F9297BDDFE32</string>
+			<key>IDESourceControlWCCName</key>
+			<string>midi_patchbay</string>
+		</dict>
+	</array>
+</dict>
+</plist>
